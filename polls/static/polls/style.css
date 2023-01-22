@@ -1,0 +1,8 @@
+li a {
+    color: rgb(179, 240, 11);
+}
+
+body {
+    background: white url("images/background.png");
+    background-size: cover;
+}
